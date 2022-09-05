@@ -35,6 +35,6 @@ It takes the lotery number of user and match that with the lottery number that t
 _A program written in java_
 
 ### Working of application:
-It is the replica of the game which we used to play earlier in our childhood. But it's on a black screen, :sad: right! No problem, its the one of the way to learn the programming language with the fun :happy:
+It is the replica of the game which we used to play earlier in our childhood. But it's on a black screen, 😞 right! No problem, its the one of the way to learn the programming language with the fun 😊
 
 ▶️[Click Me](/Rock%2C%20Paper%20and%20Scissor%20Application/rockPaperScissor.java) to see the program!
