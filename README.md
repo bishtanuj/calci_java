@@ -28,3 +28,5 @@ _A program written in java_
 
 ### Working of application:
 It takes the lotery number of user and match that with the lottery number that the machine get through randomization. Therefore, it helps in making the conclusion of the game. It's fun right! :smile:
+
+▶️[Click Me](/Lottery%20Application/lottery.java) to see the program!
