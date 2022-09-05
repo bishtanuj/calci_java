@@ -20,7 +20,7 @@ _A calcualtor made with the help of java_
 11. Exponent
 
 
-▶️[Click Me](/Calculator Application/calculator.java) to see the program!
+▶️[Click Me](/Calculator&Application/calculator.java) to see the program!
 
 
 ## 2. Lotery Application
