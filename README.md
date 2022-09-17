@@ -4,7 +4,7 @@
 These programs consists of functions, data structure - Array and switch cases and many more things. It helps me to explore different libraries of java._
 
 ## 1. Calculator
-_A calcualtor made with the help of java_
+_A calculator made with the help of java_
 
 ### Following operations can be done by this calculator:
 1.  Addition
